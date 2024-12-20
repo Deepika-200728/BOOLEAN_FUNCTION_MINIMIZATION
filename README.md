@@ -56,10 +56,12 @@ RegisterNumber:24900696
 **RTL realization**
 
 ![Screenshot (20)](https://github.com/user-attachments/assets/a34f18d7-a474-4396-8c7e-7b48eadd1c32)
+![Screenshot (24)](https://github.com/user-attachments/assets/3722c534-c3ff-43ea-8fad-b17e7aeb7d4f)
 
 **Timing Diagram**
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/ef911650-816d-4979-88a3-d1be6227a674)
+![Screenshot (25)](https://github.com/user-attachments/assets/f1060dd2-6c59-4452-a2a4-3037a434c2dc)
 
 
 **Result:**
